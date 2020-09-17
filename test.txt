@@ -1,1 +1,1 @@
-VS CODEで作成
+VS CODE
