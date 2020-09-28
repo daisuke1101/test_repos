@@ -1,3 +1,3 @@
 # test_repos
-test_reposit
-コンフリクトテスト
+test_repository
+コンフリクトTEST
